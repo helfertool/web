@@ -1,3 +1,16 @@
-title = "My New Hugo Site"
+title = "Helfertool"
 baseurl = "http://example.org/"
 languageCode = "en-us"
+
+theme = "helfertool"
+
+DefaultContentLanguage = "en"
+
+[Languages]
+[Languages.en]
+weight = 1
+title = "Helfertool"
+
+[Languages.de]
+weight = 2
+title = "Helfertool"
