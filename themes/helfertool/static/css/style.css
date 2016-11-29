@@ -1,4 +1,54 @@
-body > .container
-{
-    padding-top: 60px;
+html {
+    background-color: #7cbb74;
+}
+
+/*
+ * Main menu
+ */
+.navbar-custom {
+    background-color: white;
+
+    border-color: #7cbb74;
+}
+
+.navbar-custom a {
+    color: black;
+}
+
+.navbar-custom li a:hover, .navbar-custom .active a {
+    background-color: #7cbb74;
+    color:white;
+}
+
+.navbar-custom li {
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+/*
+ * Title block
+ */
+.title-block {
+    /* fixed main menu */
+    margin-top: 50px;
+
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+
+    background-color: #7cbb74;
+    color:white;
+
+    font-size: 4em;
+}
+
+/*
+ * Footer
+ */
+footer {
+    padding-top: 2em;
+    padding-bottom: 2em;
+
+    background-color: #7cbb74;
+    color: white;
 }

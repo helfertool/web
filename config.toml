@@ -1,9 +1,14 @@
+# basic settings
 title = "Helfertool"
 baseurl = "http://example.org/"
-languageCode = "en-us"
 
 theme = "helfertool"
 
+disableRSS = true
+disableSitemap = true
+
+# multi lang
+languageCode = "en-us"
 DefaultContentLanguage = "en"
 
 [Languages]
@@ -14,3 +19,10 @@ title = "Helfertool"
 [Languages.de]
 weight = 2
 title = "Helfertool"
+
+# template config
+contact = """
+    Sven Hertle<br />
+    Wallnerstraße 39<br />
+    80939 München<br />
+    E-Mail: <a href="mailto:helfertool@fs.tum.de">helfertool@fs.tum.de</a>"""

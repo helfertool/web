@@ -1,5 +1,18 @@
         </div>
 
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <h4>Contact</h4>
+
+                        <p>{{ .Site.Params.contact | safeHTML }}</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
         <script src="{{ .Site.BaseURL }}vendor/jquery/jquery.min.js"></script>
 
         <script src="{{ .Site.BaseURL }}vendor/bootstrap/js/bootstrap.min.js"></script>
