@@ -18,42 +18,40 @@
                 <li><a href="#">Contact</a></li>
             </ul>
             -->
-            <ul class="nav navbar-nav">
+            <ul class="nav navbar-nav navbar-right">
                 {{ $currentNode := . }}
                 {{ range .Site.Menus.main }}
                     {{ if .HasChildren }}
-                        <!-- TODO: hasChildren and "active" class -->
-                        <li class="sub-menu{{if $currentNode.HasMenuCurrent "main" . }} active{{end}}">
-                        <a>
-                            {{ .Pre }}
-                            <span>{{ .Name }}</span>
-                            <span class="menu-arrow arrow_carrot-right"></span>
+                        <li class="dropdown {{if $currentNode.HasMenuCurrent "main" . }}active{{ end }}">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                {{ .Pre }}
+                                <span>{{ .Name }}</span>
+                                <span class="caret"></span>
                             </a>
-                            <ul class="sub">
+
+                            <ul class="dropdown-menu">
                                 {{ range .Children }}
-                                    <li{{if $currentNode.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
+                                    <li {{if $currentNode.IsMenuCurrent "main" . }} class="active"{{end}}>
+                                        <a href="{{.URL}}">
+                                            {{ .Pre }}
+                                            <span>{{ .Name }}</span>
+                                        </a>
+                                    </li>
                                 {{ end }}
                             </ul>
+                        </li>
                     {{else}}
-                        <li>
-                        <a href="{{.URL}}">
-                        {{ .Pre }}
-                        <span>{{ .Name }}</span>
-                        </a>
+                        <li {{if $currentNode.IsMenuCurrent "main" . }} class="active"{{end}}>
+                            <a href="{{.URL}}">
+                                {{ .Pre }}
+                                <span>{{ .Name }}</span>
+                            </a>
+                        </li>
                     {{end}}
-                    </li>
                 {{end}}
             </ul>
 
-            <!--
-            <ul class="nav navbar-nav navbar-right">
-                <li class="active"><a href="./">Default <span class="sr-only">(current)</span></a></li>
-                <li><a href="../navbar-static-top/">Static top</a></li>
-                <li><a href="../navbar-fixed-top/">Fixed top</a></li>
-            </ul>
-
             <!-- TODO: github link -->
-            -->
         </div><!--/.nav-collapse -->
     </div><!--/.container-fluid -->
 </nav>
