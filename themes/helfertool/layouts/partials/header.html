@@ -28,7 +28,7 @@
         {{ if .Params.titleblock }}
             <div class="title-block firstcontent">
                 <div class="container">
-                    <p>{{ .Site.Params.titleblock | safeHTML }}</p>
+                    <p>{{ .Site.Params.titleblock_text | safeHTML }}</p>
                 </div>
             </div>
 
@@ -36,6 +36,3 @@
         {{ else }}
             <div class="container firstcontent content">
         {{ end }}
-
-        {{ .Params.main }}
-
