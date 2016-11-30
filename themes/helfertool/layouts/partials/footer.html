@@ -6,21 +6,6 @@
 
                         <p>{{ .Site.Params.contact | safeHTML }}</p>
                     </div>
-
-                    <div class="col-lg-4">
-                        <h4>{{ i18n "lang" }}</h4>
-                        {{ range .Translations }}
-                        <p>
-                            <a href="{{ .Permalink }}">
-                                {{ if eq .Lang "de" }}
-                                    Auf deutsche Version wechseln
-                                {{ else }}
-                                    Switch to English
-                                {{ end }}
-                            </a>
-                        </p>
-                        {{ end}}
-                    </div>
                 </div>
             </div>
         </footer>

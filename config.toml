@@ -7,10 +7,6 @@ theme = "helfertool"
 disableRSS = true
 disableSitemap = true
 
-# multi lang
-languageCode = "en-us"
-DefaultContentLanguage = "en"
-
 [params]
 # template config
 titleblock_text = """
@@ -21,11 +17,3 @@ contact = """
     Wallnerstraße 39<br />
     80939 München<br />
     E-Mail: <a href="mailto:helfertool@fs.tum.de">helfertool@fs.tum.de</a>"""
-
-[languages.en]
-weight = 1
-title = "Helfertool"
-
-[languages.de]
-weight = 2
-title = "Helfertool"
