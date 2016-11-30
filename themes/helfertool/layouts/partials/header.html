@@ -24,15 +24,3 @@
 
     <body>
         {{ partial "menu.html" . }}
-
-        {{ if .Params.titleblock }}
-            <div class="title-block firstcontent">
-                <div class="container">
-                    <p>{{ .Site.Params.titleblock_text | safeHTML }}</p>
-                </div>
-            </div>
-
-            <div class="container content">
-        {{ else }}
-            <div class="container firstcontent content">
-        {{ end }}

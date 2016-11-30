@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+<div class="title-block firstelement">
+    <div class="container">
+        <p>{{ .Site.Params.titleblock_text | safeHTML }}</p>
+    </div>
+</div>
+
+<div class="container content">
+    {{ partial "features.html" . }}
+</div>
+
+{{ partial "footer.html" . }}
