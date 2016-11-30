@@ -1,5 +1,5 @@
 html {
-    background-color: #7cbb74;
+    background-color: #3aafb9;
 }
 
 /*
@@ -9,7 +9,7 @@ html {
     background-color: white;
 
     border-bottom: 5px solid;
-    border-color: #7cbb74;
+    border-color: #3aafb9;
 }
 
 .navbar-custom a {
@@ -30,7 +30,7 @@ html {
 }
 
 .navbar-custom li a:hover, .navbar-custom .active a {
-    background-color: #7cbb74;
+    background-color: #3aafb9;
     color:white;
 }
 
@@ -53,7 +53,7 @@ html {
     width: 100%;
     padding: 0.5em;
 
-    background-color: #7cbb74;
+    background-color: #3aafb9;
     color:white;
 
     font-size: 4em;
@@ -66,6 +66,6 @@ footer {
     padding-top: 2em;
     padding-bottom: 2em;
 
-    background-color: #7cbb74;
+    background-color: #3aafb9;
     color: white;
 }
