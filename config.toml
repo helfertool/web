@@ -21,6 +21,10 @@ weight = 2
 title = "Helfertool"
 
 # template config
+titleblock = """
+    Helfermanagement
+"""
+
 contact = """
     Sven Hertle<br />
     Wallnerstraße 39<br />

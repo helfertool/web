@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>{{ .Title }}</title>
+        <title>{{ .Site.Title }}</title>
 
         {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
         {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
@@ -24,10 +24,18 @@
 
     <body>
         {{ partial "menu.html" . }}
-        <div class="title-block">
-            <div class="container">
-                    {{ .Title }}
-            </div>
-        </div>
 
-        <div class="container">
+        {{ if .Params.titleblock }}
+            <div class="title-block firstcontent">
+                <div class="container">
+                    <p>{{ .Site.Params.titleblock | safeHTML }}</p>
+                </div>
+            </div>
+
+            <div class="container content">
+        {{ else }}
+            <div class="container firstcontent content">
+        {{ end }}
+
+        {{ .Params.main }}
+

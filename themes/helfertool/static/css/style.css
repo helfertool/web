@@ -8,11 +8,25 @@ html {
 .navbar-custom {
     background-color: white;
 
+    border-bottom: 5px solid;
     border-color: #7cbb74;
 }
 
 .navbar-custom a {
     color: black;
+    font-size: 200%;
+}
+
+.navbar-custom li {
+    padding-left: 1em;
+    padding-right: 1em;
+
+    width: 10em;
+}
+
+.navbar-custom li a {
+    text-align: center;
+    font-size: 120%;
 }
 
 .navbar-custom li a:hover, .navbar-custom .active a {
@@ -20,21 +34,24 @@ html {
     color:white;
 }
 
-.navbar-custom li {
-    padding-left: 2em;
-    padding-right: 2em;
+/*
+ * First block under fixed main menu
+ */
+.firstcontent {
+    margin-top: 50px;
+}
+
+.content {
+    padding-top: 2em;
+    padding-bottom: 2em;
 }
 
 /*
  * Title block
  */
 .title-block {
-    /* fixed main menu */
-    margin-top: 50px;
-
     width: 100%;
     padding: 0.5em;
-    margin-bottom: 1em;
 
     background-color: #7cbb74;
     color:white;
