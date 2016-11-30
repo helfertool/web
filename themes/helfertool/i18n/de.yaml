@@ -1,2 +1,5 @@
-- id: Language
-  translation: "Language"
+- id: lang
+  translation: "Sprache"
+
+- id: contact
+  translation: "Kontakt"

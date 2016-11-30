@@ -4,26 +4,24 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4">
-                        <h4>Contact</h4>
+                        <h4>{{ i18n "contact" }}</h4>
 
                         <p>{{ .Site.Params.contact | safeHTML }}</p>
                     </div>
 
                     <div class="col-lg-4">
-                        <h4>{{ i18n "Language" }}</h4>
-                        <ul>
-                            {{ range .Site.Languages }}
-                                <li>
-                                    <a href="{{ $.Site.BaseURL }}{{ .Lang }}{{ $.URL | replaceRE "^/[a-z]+" "" }}">
-                                        {{ if eq .Lang "de" }}
-                                            Deutsch
-                                        {{ else }}
-                                            English
-                                        {{ end }}
-                                    </a>
-                                </li>
-                            {{ end}}
-                        </ul>
+                        <h4>{{ i18n "lang" }}</h4>
+                        {{ range .Translations }}
+                        <p>
+                            <a href="{{ .Permalink }}">
+                                {{ if eq .Lang "de" }}
+                                    Auf deutsche Version wechseln
+                                {{ else }}
+                                    Switch to English
+                                {{ end }}
+                            </a>
+                        </p>
+                        {{ end}}
                     </div>
                 </div>
             </div>
