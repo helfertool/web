@@ -8,7 +8,6 @@ disableRSS = true
 disableSitemap = true
 
 [params]
-# template config
 titleblock_text = """
     Helfermanagement"""
 
@@ -17,3 +16,9 @@ contact = """
     Wallnerstraße 39<br />
     80939 München<br />
     E-Mail: <a href="mailto:helfertool@fs.tum.de">helfertool@fs.tum.de</a>"""
+
+[[menu.main]]
+    name = "Home"
+    weight = 0
+    identifier = "home"
+    url = "/"
