@@ -1,10 +1,13 @@
         <footer class="footer">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4">
-                        <h4>{{ i18n "contact" }}</h4>
-
-                        <p>{{ .Site.Params.contact | safeHTML }}</p>
+                    <div class="col-lg-12">
+                        <p class="text-center">
+                        {{ range $i, $e := $.Site.Data.footer.link }}
+                            {{ if $i }} | {{ end }}
+                            <a href="{{ $.Site.BaseURL }}{{ .url }}">{{ .title }}</a>
+                        {{ end }}
+                        </p>
                     </div>
                 </div>
             </div>

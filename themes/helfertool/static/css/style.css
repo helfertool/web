@@ -69,3 +69,7 @@ footer {
     background-color: #3aafb9;
     color: white;
 }
+
+footer a, footer a:hover, footer a:active, footer a:focus {
+    color: white;
+}

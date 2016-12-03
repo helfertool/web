@@ -11,12 +11,6 @@ disableSitemap = true
 titleblock_text = """
     Helfermanagement"""
 
-contact = """
-    Sven Hertle<br />
-    Wallnerstraße 39<br />
-    80939 München<br />
-    E-Mail: <a href="mailto:helfertool@fs.tum.de">helfertool@fs.tum.de</a>"""
-
 [[menu.main]]
     name = "Home"
     weight = 0
