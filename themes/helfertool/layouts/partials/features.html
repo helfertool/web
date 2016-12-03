@@ -4,8 +4,8 @@
     </div>
 
     {{ range $.Site.Data.features.feature }}
-        <div class="col-lg-3">
-                <!--<img src="{{ $.Site.BaseURL }}img/features/{{ .img }}" alt="{{ .title }}">-->
+        <div class="col-lg-3" style="text-align: center;">
+                <img src="{{ $.Site.BaseURL }}img/features/{{ .img }}" alt="{{ .title }}" style="max-width: 50%;">
                 <h3>{{ .title }}</h3>
                 <p>{{ .text }}</p>
         </div>

@@ -1,24 +1,24 @@
 [[feature]]
 title = "Internal registrations"
-img = "visibility.png"
+img = "visibility.svg"
 text = "Decide if the registration for a job is internal or publicly visible."
 
 [[feature]]
 title = "PDF and Excel export"
-img = "export.png"
+img = "export.svg"
 text = "Export the complete data as Excel file or all important data directly as PDF."
 
 [[feature]]
 title = "Badges"
-img = "badges.png"
+img = "badges.svg"
 text = "Generate badges for identification and access control."
 
 [[feature]]
 title = "Gifts"
-img = "gifts.png"
+img = "gifts.svg"
 text = "Manage gifts for volunteers: they may receive a gift for each done shift, the organisers can note if a volunteer got the gift for each single shift."
 
 [[feature]]
 title = "Inventory"
-img = "inventory.png"
+img = "inventory.svg"
 text = "Helpers may receive some items like flashlights during their shift, manage the loan using barcodes on the badges and items."

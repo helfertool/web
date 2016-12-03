@@ -8,8 +8,7 @@ disableRSS = true
 disableSitemap = true
 
 [params]
-titleblock_text = """
-    Helfermanagement"""
+titleblock_text = """Volunteer and staff management"""
 
 [[menu.main]]
     name = "Home"
