@@ -20,8 +20,12 @@ html {
 .navbar-custom li {
     padding-left: 1em;
     padding-right: 1em;
+}
 
-    width: 10em;
+@media (min-device-width: 768px) {
+    .navbar-custom li {
+        width: 10em;
+    }
 }
 
 .navbar-custom li a {
@@ -32,6 +36,10 @@ html {
 .navbar-custom li a:hover, .navbar-custom .active a {
     background-color: #3aafb9;
     color:white;
+}
+
+.navbar-custom .navbar-toggle .icon-bar {
+    background-color: #3aafb9;
 }
 
 /*
