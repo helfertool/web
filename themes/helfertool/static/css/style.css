@@ -60,6 +60,13 @@ html {
 }
 
 /*
+ * Content
+ */
+a, a:hover, a:active, a:focus {
+    color: #3aafb9;
+}
+
+/*
  * Footer
  */
 footer {
