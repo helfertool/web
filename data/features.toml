@@ -16,7 +16,9 @@ important = false
 title = "Badges"
 img = "badges.svg"
 text = "Generate badges for identification and access control."
-text_long = ""
+text_long = """
+    Badges may be used for access control or to affirm certain priviledges during an event.
+    """
 important = true
 
 [[feature]]
