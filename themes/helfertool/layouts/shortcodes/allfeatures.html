@@ -1,0 +1,15 @@
+{{ range $i, $e := $.Site.Data.features.feature }}
+    <div class="row" {{ if $i }}style="margin-top: 4em;"{{ end }}>
+        <div class="col-lg-2">
+                <img src="{{ $.Site.BaseURL }}img/features/{{ .img }}" alt="{{ .title }}" style="max-width: 100%;">
+        </div>
+        <div class="col-lg-10">
+                <h3>{{ .title }}</h3>
+                {{ if .text_long }}
+                    <p>{{ .text_long }}</p>
+                {{ else }}
+                    <p>{{ .text }}</p>
+                {{ end }}
+        </div>
+    </div>
+{{ end }}
