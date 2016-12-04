@@ -10,7 +10,7 @@ title = "Contact"
 Contact
 =======
 
-Do not hestiate to ask me if you have questions.
+Do not hesitate to contact me if you have any questions.
 
 **Sven Hertle**  
 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
