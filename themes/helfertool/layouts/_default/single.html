@@ -1,15 +1,11 @@
 {{ partial "header.html" . }}
 
 <div class="container content firstelement">
-    {{ if .Params.noautorow }}
-        {{ .Content }}
-    {{ else }}
         <div class="row">
             <div class="col-lg-12">
                 {{ .Content }}
             </div>
         </div>
-    {{ end }}
 </div>
 
 {{ partial "footer.html" . }}
