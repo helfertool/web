@@ -11,7 +11,7 @@ disableSitemap = true
 titleblock_text = """Volunteer and staff management"""
 
 [[menu.main]]
-    name = "Home"
-    weight = 0
-    identifier = "home"
-    url = "/"
+name = "Home"
+weight = 0
+identifier = "home"
+url = "/"
