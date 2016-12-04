@@ -4,7 +4,7 @@ set -eu
 
 # handle arguments
 if [ "$#" != "1" ] ; then
-    echo "Usage: $(basename "$0") stage" >&2
+    echo "Usage: $(basename "$0") testing|public" >&2
     exit 1
 fi
 
