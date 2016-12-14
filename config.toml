@@ -1,6 +1,6 @@
 # basic settings
 title = "Helfertool"
-baseurl = "http://example.org/"
+baseurl = "https://www.helfertool.org/"
 
 theme = "helfertool"
 

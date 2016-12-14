@@ -1,15 +1,44 @@
+# Template
+
+#[[feature]]
+#title = ""
+#img = ""
+#text = ""
+#text_long = """
+#"""
+#important = false
+
+[[feature]]
+title = "Jobs and shifts"
+img = "jobs.svg"
+text = ""
+text_long = """
+You can create any number of jobs with different shifts, each shift has a start
+and end time, a maximal number of helpers and optionally a name.
+Each job can have its own administrators that can view and manage the helpers
+of this job, but not of other jobs.
+"""
+important = false
+
 [[feature]]
 title = "Internal registrations"
 img = "internal.svg"
 text = "Decide if the registration for a job is internal or publicly visible."
-text_long = ""
+text_long = """
+A job can be visible publicly or only internal. You can generate links to
+access the internal jobs, e.g.
+<code>demo.helfertool.de/demo/l/331b56d2-9582-4248-8254-bc413395504e/</code>.
+"""
 important = true
 
 [[feature]]
 title = "PDF and Excel export"
 img = "export.svg"
 text = "Export the complete data as Excel file or all important data directly as PDF."
-text_long = ""
+text_long = """
+Export the complete data as Excel file or all important data directly as PDF.
+An export can contain all jobs of the event or only a single job.
+"""
 important = false
 
 [[feature]]
@@ -17,8 +46,11 @@ title = "Badges"
 img = "badges.svg"
 text = "Generate badges for identification and access control."
 text_long = """
-    Badges may be used for access control or to affirm certain priviledges during an event.
-    """
+Badges may be used for access control or to affirm certain priviledges during an event.
+They can be created with the tool using a LaTeX template.
+It is possible to print barcodes on the badges, then the tool remembers all
+scanned barcodes and does not export the same badge multiple times.
+"""
 important = true
 
 [[feature]]
@@ -34,3 +66,15 @@ img = "inventory.svg"
 text = "Helpers may receive some items like flashlights during their shift, manage the loan using barcodes on the badges and items."
 text_long = ""
 important = true
+
+[[feature]]
+title = "Certificates for food handling"
+img = "food.svg"
+text = ""
+text_long = """
+In Germany it is necessary that every person that has contact with food on an
+event has a certificate issued by a doctor or public authorities.
+If necessary the helper is asked if he has this certificate, if it has to be
+renewed or if he never had this certificate.
+"""
+important = false

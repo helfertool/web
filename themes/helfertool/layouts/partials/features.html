@@ -7,8 +7,8 @@
         {{ if .important }}
             <div class="col-lg-3" style="text-align: center;">
                     <img src="{{ $.Site.BaseURL }}img/features/{{ .img }}" alt="{{ .title }}" style="max-width: 50%;">
-                    <h3>{{ .title }}</h3>
-                    <p>{{ .text }}</p>
+                    <h3>{{ .title | markdownify }}</h3>
+                    <p>{{ .text | markdownify }}</p>
             </div>
         {{ end }}
     {{ end }}

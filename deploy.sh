@@ -15,12 +15,9 @@ case "$1" in
         HUGO_ARGS="-b https://www.narfi.net/~hertle/helfertool/"
         ;;
     "public")
-        echo "not implemented"
-        exit 1
-
         SERVER="narfi.net"
-        DIR="/srv/www/helfertool.de/"
-        HUGO_ARGS="-b https://www.helfertool.de/"
+        DIR="/srv/www/helfertool.org/"
+        HUGO_ARGS=""
         ;;
     *)
         echo "Invalid stage: $1" >&2

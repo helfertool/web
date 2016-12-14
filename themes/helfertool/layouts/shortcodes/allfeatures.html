@@ -4,11 +4,11 @@
                 <img src="{{ $.Site.BaseURL }}img/features/{{ .img }}" alt="{{ .title }}" style="max-width: 100%;">
         </div>
         <div class="col-lg-10">
-                <h3>{{ .title }}</h3>
+                <h3>{{ .title | markdownify }}</h3>
                 {{ if .text_long }}
-                    <p>{{ .text_long }}</p>
+                    <p>{{ .text_long | markdownify }}</p>
                 {{ else }}
-                    <p>{{ .text }}</p>
+                    <p>{{ .text | markdownify }}</p>
                 {{ end }}
         </div>
     </div>
