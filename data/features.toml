@@ -27,7 +27,7 @@ text = "Decide if the registration for a job is internal or publicly visible."
 text_long = """
 A job can be visible publicly or only internal. You can generate links to
 access the internal jobs, e.g.
-<code>demo.helfertool.de/demo/l/331b56d2-9582-4248-8254-bc413395504e/</code>.
+<code>demo.helfertool.org/demo/l/331b56d2-9582-4248-8254-bc413395504e/</code>.
 """
 important = true
 
