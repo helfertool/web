@@ -11,4 +11,4 @@ Install
 =======
 
 The install instructions for development and deployment can be found in the
-[README file](https://github.com/helfertool/helfertool/blob/master/README.md).
+[README](https://github.com/helfertool/helfertool/blob/master/README.md).

@@ -15,3 +15,10 @@ name = "Home"
 weight = 0
 identifier = "home"
 url = "/"
+
+[[menu.main]]
+name = "GitHub"
+pre = """<span class="githubicon" aria-hidden="true"></span>"""
+weight = 100
+identifier = "github"
+url = "https://github.com/helfertool/helfertool"

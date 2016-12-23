@@ -22,7 +22,7 @@ html {
     padding-right: 1em;
 }
 
-@media (min-device-width: 768px) {
+@media (min-width: 768px) {
     .navbar-custom li {
         width: 10em;
     }
@@ -40,6 +40,22 @@ html {
 
 .navbar-custom .navbar-toggle .icon-bar {
     background-color: #3aafb9;
+}
+
+.navbar-custom a.navbar-brand {
+    color: black;
+}
+
+.githubicon::before {
+    background-image: url('../img/GitHub-Mark-120px-plus.png');
+    background-size: 1em 1em;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    content:"";
+}
+a:hover .githubicon::before {
+    background-image: url('../img/GitHub-Mark-Light-120px-plus.png');
 }
 
 /*
