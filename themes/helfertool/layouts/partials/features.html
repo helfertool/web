@@ -5,8 +5,8 @@
 
     {{ range $.Site.Data.features.feature }}
         {{ if .important }}
-            <div class="col-lg-3" style="text-align: center;">
-                    <img src="{{ $.Site.BaseURL }}img/features/{{ .img }}" alt="{{ .title }}" style="max-width: 50%;">
+            <div class="col-sm-3" style="text-align: center; margin-bottom: 5em;">
+                    <img src="{{ $.Site.BaseURL }}img/features/{{ .img }}" alt="{{ .title }}" style="width: 100px;">
                     <h3>{{ .title | markdownify }}</h3>
                     <p>{{ .text | markdownify }}</p>
             </div>
