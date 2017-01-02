@@ -10,12 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4670"
-   sodipodi:docname="logo_text.svg"
-   viewBox="0 0 1062.9921 177.16535"
+   sodipodi:docname="logo.svg"
+   viewBox="0 0 99.999997 99.999992"
    version="1.1"
    inkscape:version="0.91 r13725"
-   width="300mm"
-   height="50mm">
+   width="100"
+   height="100">
   <defs
      id="defs3394" />
   <sodipodi:namedview
@@ -25,26 +25,26 @@
      inkscape:window-y="49"
      pagecolor="#ffffff"
      inkscape:window-maximized="0"
-     inkscape:zoom="1"
+     inkscape:zoom="4"
      inkscape:window-x="0"
      inkscape:window-height="717"
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="551.18856"
-     inkscape:cy="-6.9760362"
+     inkscape:cx="64.289365"
+     inkscape:cy="39.712049"
      inkscape:window-width="1362"
      inkscape:pageopacity="0.0"
      inkscape:document-units="mm"
-     units="mm" />
+     units="px" />
   <g
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(-7.5443,10.625328)">
+     transform="translate(-7.5443,-66.540029)">
     <g
        id="g3345"
-       transform="matrix(6.1933291,0,0,6.1933291,-627.55266,-409.63232)">
+       transform="matrix(3.5354148,0,0,3.5354148,-348.87186,-160.97531)">
       <rect
          ry="0"
          y="71.941574"
@@ -52,7 +52,7 @@
          height="18.356487"
          width="17.566961"
          id="rect4761"
-         style="fill:none;fill-opacity:1;stroke:#3aafb9;stroke-width:2.78620601;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#3aafb9;stroke-width:2.78620594;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;stroke-linecap:butt" />
       <path
          sodipodi:nodetypes="csc"
          inkscape:connector-curvature="0"
@@ -60,32 +60,7 @@
          d="m 109.25326,80.151691 c 0,0 3.49984,5.856677 5.16377,5.721827 2.61185,-0.211676 10.20933,-18.459137 10.20933,-18.459137"
          style="fill:none;fill-rule:evenodd;stroke:#3aafb9;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3336"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(7.5443,-10.625336)"><flowRegion
-         id="flowRegion3338"><rect
-           id="rect3340"
-           width="614.47577"
-           height="181.72644"
-           x="161.92746"
-           y="12.409479" /></flowRegion><flowPara
-         id="flowPara3342"
-         style="font-size:125px">Helfertool--..</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3344"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3aafb9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(16.528534,-94.403514)"><flowRegion
-         id="flowRegion3346"><rect
-           id="rect3348"
-           width="1216"
-           height="322"
-           x="176"
-           y="67.165359"
-           style="fill:#3aafb9;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara3350"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';fill:#3aafb9;fill-opacity:1;stroke:none;stroke-opacity:1">Helfertool</flowPara></flowRoot>  </g>
+  </g>
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -101,7 +76,7 @@
             <dc:title>Openclipart</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
