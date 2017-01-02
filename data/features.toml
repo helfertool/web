@@ -42,6 +42,24 @@ An export can contain all jobs of the event or only a single job.
 important = false
 
 [[feature]]
+title = "E-Mails"
+img = "emails.svg"
+text = ""
+text_long = """
+Send e-mails to helpers or coordinators of different jobs and shifts, or simply
+to all registered persons. A history of all sent e-mails is saved.
+"""
+important = false
+
+[[feature]]
+title = "Collect T-shirt sizes"
+img = "tshirt.svg"
+text = "Optionally ask for T-shirt size during registration."
+text_long = """
+"""
+important = false
+
+[[feature]]
 title = "Badges"
 img = "badges.svg"
 text = "Generate badges for identification and access control."
