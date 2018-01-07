@@ -10,7 +10,11 @@ title = "Contact"
 Contact
 =======
 
-Do not hesitate to contact me if you have any questions.
+Feel free to create a
+[Github issue](https://github.com/helfertool/helfertool/issues) if you
+have any trouble with the tool.
+
+Also, do not hesitate to contact me by e-mail if you have any questions:
 
 **Sven Hertle**  
 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
