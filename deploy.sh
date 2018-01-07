@@ -11,7 +11,7 @@ cd "$dir"
 
 # compile page
 rm -rf public
-hugo $HUGO_ARGS
+hugo
 
 # copy to server
 rsync -r --delete public/ "$SERVER:$DIR/"
