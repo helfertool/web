@@ -109,23 +109,28 @@ footer a, footer a:hover, footer a:active, footer a:focus {
 }
 
 /*
- * Features
+ * Main page icons
  */
 
-/* on main page */
-div.feature {
+div.iconblock {
     text-align: center;
-    margin-bottom: 5em;
+    margin-bottom: 0.5em;
 }
 
-div.feature img {
+div.iconblock img {
     width: 100px;
 }
 
-/* on features page */
+/*
+ * Features page 
+ */
 
-img.allfeatures {
-    max-width: 100%;
+div.allfeatures_icon {
+    text-align: center;
+}
+
+img.allfeatures_icon {
+    max-width: 60%;
 }
 
 div.featurepadding {

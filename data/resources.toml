@@ -1,0 +1,21 @@
+# Template
+
+#[[resource]]
+#title = ""
+#img = ""
+#link = ""
+
+[[resource]]
+title = "Documentation"
+img = "docs.svg"
+link = "https://docs.helfertool.org"
+
+[[resource]]
+title = "Issue tracker"
+img = ".svg"
+link = "https://github.com/helfertool/helfertool/issues"
+
+[[resource]]
+title = "Source code"
+img = ".svg"
+link = "https://github.com/helfertool/helfertool/"

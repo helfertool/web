@@ -5,7 +5,7 @@
 
     {{ range $.Site.Data.features.feature }}
         {{ if .important }}
-            <div class="col-sm-3 feature">
+            <div class="col-sm-3 iconblock">
                     <img src="{{ $.Site.BaseURL }}img/features/{{ .img }}" alt="{{ .title }}">
                     <h3>{{ .title | markdownify }}</h3>
                     <p>{{ .text | markdownify }}</p>
