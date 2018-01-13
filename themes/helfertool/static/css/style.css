@@ -121,6 +121,15 @@ div.iconblock img {
     width: 100px;
 }
 
+div.iconblock a {
+    color: black;
+    text-decoration: none;
+}
+
+div.iconblock a:hover {
+    color: #3aafb9;
+}
+
 /*
  * Features page 
  */

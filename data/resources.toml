@@ -12,10 +12,10 @@ link = "https://docs.helfertool.org"
 
 [[resource]]
 title = "Issue tracker"
-img = ".svg"
+img = "issues.svg"
 link = "https://github.com/helfertool/helfertool/issues"
 
 [[resource]]
 title = "Source code"
-img = ".svg"
+img = "code.svg"
 link = "https://github.com/helfertool/helfertool/"
