@@ -3,7 +3,7 @@ date = "2016-12-03T20:53:57+01:00"
 draft = false
 title = "Contact"
 [menu.main]
-    weight = 30
+    weight = 40
 
 +++
 

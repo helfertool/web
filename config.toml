@@ -4,17 +4,20 @@ baseurl = "https://www.helfertool.org/"
 
 theme = "helfertool"
 
-disableRSS = true
-disableSitemap = true
-
 [params]
 titleblock_text = """Volunteer and staff management"""
 
 [[menu.main]]
 name = "Home"
-weight = 0
+weight = 1
 identifier = "home"
 url = "/"
+
+[[menu.main]]
+name = "News"
+weight = 10
+identifier = "news"
+url = "/news/"
 
 [[menu.main]]
 name = "GitHub"

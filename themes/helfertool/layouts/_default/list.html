@@ -1,0 +1,39 @@
+{{ partial "header.html" . }}
+
+<div class="container content firstelement">
+    {{ $paginator := .Paginate .Data.Pages }}
+    {{ range $paginator.Pages }}
+        <div class="row">
+            <div class="col-lg-12">
+                {{ if eq .Type "news" }}
+                    <article itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
+                        <div>
+                            <header class="post-list-title">
+                                <a href="{{ .Permalink }}">
+                                    <h3 itemprop="headline"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                </a>
+
+                                {{ partial "metadata.html" . }}
+                            </header>
+
+                            <div class="post-list-summary" itemprop="description">
+                                <p>
+                                    {{ .Summary | markdownify }}
+                                    {{ if .Truncated }} <a href="{{ .Permalink }}">[Read more...]</a>{{ end }}
+                                </p>
+                            </div>
+                        </div>
+                    </article>
+                {{ else }}
+                    <a href="{{ .Permalink }}">
+                        <h3 itemprop="headline"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    </a>
+                {{ end }}
+            </div>
+        </div>
+    {{ end }}
+
+    {{ template "_internal/pagination.html" . }}
+</div>
+
+{{ partial "footer.html" . }}

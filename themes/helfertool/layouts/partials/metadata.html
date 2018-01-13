@@ -1,0 +1,16 @@
+<div class="metadata">
+    <span class="glyphicon glyphicon-time" aria-hidden="true"></span>
+    &nbsp;
+    <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{.Date.Format "January 02, 2006"}}</time>
+
+    {{ if .Params.tags }}
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        <span class="glyphicon glyphicon-tags" aria-hidden="true"></span>
+        &nbsp;
+        {{ range .Params.tags }}
+            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+    {{ end }}
+</div>

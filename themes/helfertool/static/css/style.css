@@ -145,3 +145,10 @@ img.allfeatures_icon {
 div.featurepadding {
     margin-top: 4em;
 }
+
+/*
+ * News
+ */
+div.metadata {
+    margin-bottom: 1.5em;
+}
