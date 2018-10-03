@@ -14,8 +14,8 @@
    viewBox="0 0 343.70079 251.5748"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="badges_rotated.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="badges.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="444.12302"
+     inkscape:cx="248.12302"
      inkscape:cy="143.66889"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4258-0"
      showgrid="false"
      inkscape:window-width="1362"
      inkscape:window-height="717"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,34 +64,32 @@
          height="194.18839"
          width="300.48761"
          id="rect3336-9"
-         style="fill:none;fill-opacity:1;stroke:#3aafb9;stroke-width:10.62992096;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#1ea082;stroke-width:10.62992096;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text4142-7"
          y="92.717293"
          x="63.63961"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#3aafb9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#1ea082;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.25px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Semi-Bold';fill:#3aafb9;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.25px;line-height:1.25;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Semi-Bold';fill:#1ea082;fill-opacity:1;stroke:none;stroke-opacity:1;"
            y="92.717293"
            x="63.63961"
            id="tspan4144-9"
            sodipodi:role="line">John Doe</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4142-3-9"
          y="122.09144"
          x="62.80764"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#3aafb9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';letter-spacing:0px;word-spacing:0px;fill:#1ea082;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#3aafb9;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';fill:#1ea082;fill-opacity:1;stroke:none;stroke-opacity:1;"
            y="122.09144"
            x="62.80764"
            id="tspan4144-6-3"
            sodipodi:role="line">Logistics</tspan></text>
       <path
          d="m 229.04331,173.65055 c -0.39263,-0.44596 -0.44217,-28.80727 -0.0516,-29.5368 0.38685,-0.72285 2.44104,-1.63936 4.37937,-1.95405 1.54,-0.24997 2.7583,-0.68054 1.92559,-0.68054 -0.15905,0 -0.28918,-0.16265 -0.28918,-0.36146 0,-0.1988 0.10354,-0.36147 0.23021,-0.36147 0.1266,0 0.8192,-0.56931 1.53904,-1.26511 0.71984,-0.6958 2.14683,-1.69512 3.17097,-2.22073 1.02414,-0.52558 1.91978,-1.10577 1.99021,-1.28928 0.15498,-0.40387 4.11015,-2.2754 6.44383,-3.04916 1.59057,-0.52735 1.76542,-0.66041 3.06321,-2.3317 0.85032,-1.09498 1.32074,-1.91056 1.23085,-2.13386 -0.08,-0.19881 -0.49886,-1.71696 -0.93071,-3.37365 -0.67758,-2.59943 -1.38809,-4.70873 -1.69593,-5.03459 -0.0492,-0.052 -0.26637,0.0523 -0.48272,0.23188 -0.33367,0.27693 -0.43523,0.2692 -0.66932,-0.0509 -0.15177,-0.20757 -0.71342,-0.60059 -1.24811,-0.87339 -0.75254,-0.38392 -1.14706,-0.83504 -1.74624,-1.9969 -0.42575,-0.82548 -0.7741,-1.68932 -0.7741,-1.91958 0,-0.23027 -0.15322,-0.78535 -0.34048,-1.23358 -0.18727,-0.44819 -0.62853,-2.00672 -0.98061,-3.46333 -0.7457,-3.08525 -1.44357,-5.36645 -2.0811,-6.80272 -0.31103,-0.70067 -0.4518,-1.57112 -0.44817,-2.77126 0.005,-1.725755 0.13768,-2.152835 1.3543,-4.366334 0.47812,-0.86985 0.50164,-1.88778 0.10662,-4.61271 -0.17291,-1.19284 -0.29693,-3.2663 -0.2756,-4.60771 l 0.0388,-2.43891 -0.6147,0.1175 c -0.72544,0.13869 -0.7292,0.12384 -0.22292,-0.89099 0.292,-0.58533 0.4437,-0.70217 0.59562,-0.45873 0.11926,0.19111 0.14295,-0.0522 0.0571,-0.58656 -0.11497,-0.71547 -0.0416,-1.02851 0.33862,-1.44582 0.61493,-0.67493 0.95978,-1.87474 0.99642,-3.46701 0.0158,-0.68614 0.14199,-1.5454 0.28041,-1.90948 0.13842,-0.36408 0.18453,-0.96771 0.1024,-1.34141 -0.10711,-0.48768 -0.008,-0.85906 0.3515,-1.31603 0.27541,-0.35011 0.50075,-0.75894 0.50075,-0.90853 0,-0.14957 0.36385,-0.81272 0.80856,-1.4736 0.4447,-0.66092 0.89366,-1.47059 0.99772,-1.79926 0.10407,-0.32868 0.47215,-0.87448 0.81804,-1.21283 0.34589,-0.33841 0.81621,-0.937 1.0451,-1.33022 1.28784,-2.21201 3.45842,-4.68593 6.02986,-5.71198 10.16499,-4.05603 22.18349,-2.55616 32.83301,-0.0323 1.10351,0.26152 2.02037,1.03103 3.03884,1.52983 0.42305,0.20721 0.78755,0.27639 1.27584,0.60773 0.48826,0.33136 1.03321,0.60245 1.21099,0.60245 0.71309,0 4.35631,2.88618 4.95618,3.92637 1.06577,1.84798 2.32262,3.14114 2.90495,2.98888 0.28373,-0.0741 0.66808,-0.0765 0.85408,-0.005 0.50051,0.19207 0.41025,0.98681 -0.1316,1.15879 -0.43171,0.13701 -0.38284,0.27881 0.60244,1.74793 0.58975,0.87934 1.07225,1.68926 1.07225,1.79975 0,0.11051 0.28886,0.6585 0.64192,1.21774 0.35306,0.55929 0.6679,1.25352 0.69964,1.54274 0.11465,1.04441 0.39305,2.15467 0.86636,3.45527 0.53204,1.46186 0.65969,3.73515 0.23367,4.16114 -0.15005,0.15005 -0.27281,0.69943 -0.27281,1.22082 0,0.5214 -0.12034,1.3496 -0.2674,1.84047 -0.2201,0.73458 -0.19575,1.03111 0.1376,1.67574 0.34774,0.67243 0.35667,0.82283 0.0632,1.06324 -0.18801,0.15404 -0.47808,0.91912 -0.64459,1.70024 l -0.30275,1.42017 0.7659,0.5994 c 0.42124,0.32967 0.85661,0.8379 0.96744,1.12944 0.11083,0.29152 0.11203,2.581689 0.003,5.089244 -0.22509,5.16105 -0.76639,8.15519 -1.87604,10.37791 -0.38744,0.77594 -0.7758,1.707 -0.86309,2.0691 -0.34728,1.44091 -2.54456,3.22925 -4.64866,3.78367 l -1.00278,0.26421 -0.13776,2.10499 c -0.19031,2.90816 -1.16725,6.78055 -2.31512,9.17681 -1.31712,2.74942 -1.28135,3.24079 0.37689,5.18329 1.50527,1.7633 3.17083,2.92393 4.47457,3.11809 1.18698,0.17675 3.53575,2.0046 5.12618,3.98928 0.70632,0.88144 2.11209,2.45468 3.1238,3.49602 1.0118,1.04141 1.8521,2.01737 1.86738,2.1688 0.0153,0.15145 0.0423,0.38761 0.0602,0.52479 0.044,0.33838 0.99042,1.56737 2.44218,3.17132 l 1.20493,1.33124 0.0744,10.33833 c 0.064,8.89768 0.0245,10.38882 -0.28401,10.69729 -0.52949,0.52947 -84.20662,0.52744 -84.67751,-0.002 l -1e-5,1.1e-4 z"
-         style="fill:#3aafb9;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="fill:#1ea082;fill-opacity:1;stroke:none;stroke-opacity:1"
          sodipodi:nodetypes="csssssssssssssssssssssssscccsssssssssssssaaasssssssssssssssscccsssscccssssssscccscc"
          id="path2863-2"
          inkscape:connector-curvature="0" />

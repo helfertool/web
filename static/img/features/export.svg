@@ -14,7 +14,7 @@
    viewBox="0 0 180.70866 134.64567"
    id="svg4712"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="export.svg">
   <defs
      id="defs4714">
@@ -111,10 +111,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="145.18862"
+     inkscape:cx="46.193671"
      inkscape:cy="30.372017"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3912"
      showgrid="false"
      inkscape:window-width="1362"
      inkscape:window-height="717"
@@ -129,7 +129,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -145,31 +145,30 @@
          id="g3926"
          transform="translate(-105.3,27.338)">
         <g
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#3aafb9;stroke-width:1px;stroke-linejoin:round;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#1ea082;stroke-width:1px;stroke-linejoin:round;stroke-opacity:1"
            id="g3890"
            transform="matrix(0.86046,0,0,0.86207,86.805,123.42)">
           <path
-             style="fill:#ffffff;fill-opacity:1;stroke:#3aafb9;stroke-opacity:1"
+             style="fill:#ffffff;fill-opacity:1;stroke:#1ea082;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path3892"
              d="m 82,930.36 -60,0 0,115 85,0 0,-90 -25,-25 z" />
           <path
-             style="fill:#ffffff;fill-opacity:1;stroke:#3aafb9;stroke-opacity:1"
+             style="fill:#ffffff;fill-opacity:1;stroke:#1ea082;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path3894"
              d="m 107,955.36 -25,-25 c 1.8633,8.3333 2.1329,16.667 0,25 9.9055,-1.935 17.128,-0.56751 25,0 z" />
         </g>
         <rect
-           style="fill:#3aafb9;fill-opacity:1;stroke-width:0"
+           style="fill:#1ea082;fill-opacity:1;stroke-width:0"
            id="rect3896"
            height="31.256001"
            width="70.115997"
            y="959.40002"
            x="107.25" />
         <text
-           sodipodi:linespacing="125%"
            id="text3898"
-           style="font-size:24.54899979px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff"
+           style="font-size:24.54899979px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff"
            xml:space="preserve"
            font-size="24.549px"
            line-height="125%"
@@ -177,7 +176,8 @@
            x="119.58319"><tspan
              id="tspan3900"
              y="983.96075"
-             x="119.58319">XLS</tspan></text>
+             x="119.58319"
+             style="font-family:sans-serif">XLS</tspan></text>
       </g>
     </g>
     <g
@@ -187,31 +187,30 @@
          id="g3912"
          transform="translate(-59.731407,19.761856)">
         <g
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#3aafb9;stroke-width:1px;stroke-linejoin:round;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#1ea082;stroke-width:1px;stroke-linejoin:round;stroke-opacity:1"
            id="g3872"
            transform="matrix(0.86046,0,0,0.86207,-1.1948,123.42)">
           <path
-             style="fill:#ffffff;fill-opacity:1;stroke:#3aafb9;stroke-opacity:1"
+             style="fill:#ffffff;fill-opacity:1;stroke:#1ea082;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path3874"
              d="m 82,930.36 -60,0 0,115 85,0 0,-90 -25,-25 z" />
           <path
-             style="fill:#ffffff;fill-opacity:1;stroke:#3aafb9;stroke-opacity:1"
+             style="fill:#ffffff;fill-opacity:1;stroke:#1ea082;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path3876"
              d="m 107,955.36 -25,-25 c 1.8633,8.3333 2.1329,16.667 0,25 9.9055,-1.935 17.128,-0.56751 25,0 z" />
         </g>
         <rect
-           style="fill:#3aafb9;fill-opacity:1;stroke-width:0"
+           style="fill:#1ea082;fill-opacity:1;stroke-width:0"
            id="rect3878"
            height="31.256001"
            width="70.115997"
            y="959.40002"
            x="19.247" />
         <text
-           sodipodi:linespacing="125%"
            id="text3880"
-           style="font-size:24.54899979px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff"
+           style="font-size:24.54899979px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff"
            xml:space="preserve"
            font-size="24.549px"
            line-height="125%"
@@ -219,7 +218,8 @@
            x="29.899012"><tspan
              id="tspan3882"
              y="983.97272"
-             x="29.899012">PDF</tspan></text>
+             x="29.899012"
+             style="font-family:sans-serif">PDF</tspan></text>
       </g>
     </g>
   </g>

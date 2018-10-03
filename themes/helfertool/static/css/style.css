@@ -1,5 +1,5 @@
 html {
-    background-color: #3aafb9;
+    background-color: #1ea082;
 }
 
 /*
@@ -10,7 +10,7 @@ html {
 
     border: 0;
     border-bottom: 5px solid;
-    border-color: #3aafb9;
+    border-color: #1ea082;
 
     border-radius: 0;
 }
@@ -37,12 +37,12 @@ html {
 }
 
 .navbar-custom li a:hover, .navbar-custom .active a {
-    background-color: #3aafb9;
+    background-color: #1ea082;
     color:white;
 }
 
 .navbar-custom .navbar-toggle .icon-bar {
-    background-color: #3aafb9;
+    background-color: #1ea082;
 }
 
 .navbar-custom .navbar-brand img {
@@ -80,7 +80,7 @@ a:hover .githubicon::before {
     width: 100%;
     padding: 0.5em;
 
-    background-color: #3aafb9;
+    background-color: #1ea082;
     color:white;
 
     font-size: 4em;
@@ -90,7 +90,7 @@ a:hover .githubicon::before {
  * Content
  */
 a, a:hover, a:active, a:focus {
-    color: #3aafb9;
+    color: #1ea082;
 }
 
 /*
@@ -100,7 +100,7 @@ footer {
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 
-    background-color: #3aafb9;
+    background-color: #1ea082;
     color: white;
 }
 
@@ -127,7 +127,7 @@ div.iconblock a {
 }
 
 div.iconblock a:hover {
-    color: #3aafb9;
+    color: #1ea082;
 }
 
 /*

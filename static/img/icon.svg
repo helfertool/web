@@ -10,10 +10,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4670"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="icon.svg"
    viewBox="0 0 99.999997 99.999992"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    width="100"
    height="100">
   <defs
@@ -25,14 +25,14 @@
      inkscape:window-y="49"
      pagecolor="#ffffff"
      inkscape:window-maximized="0"
-     inkscape:zoom="4"
+     inkscape:zoom="1.4142136"
      inkscape:window-x="0"
      inkscape:window-height="717"
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="64.289365"
-     inkscape:cy="39.712049"
+     inkscape:cx="62.751385"
+     inkscape:cy="-55.84807"
      inkscape:window-width="1362"
      inkscape:pageopacity="0.0"
      inkscape:document-units="mm"
@@ -43,22 +43,22 @@
      inkscape:groupmode="layer"
      transform="translate(-7.5443,-66.540029)">
     <g
-       id="g3345"
-       transform="matrix(3.5354148,0,0,3.5354148,-348.87186,-160.97531)">
+       id="g3345-3"
+       transform="matrix(3.6638086,0,0,3.6638086,-364.42625,-171.66319)">
       <rect
          ry="0"
          y="71.941574"
          x="105.66481"
          height="18.356487"
          width="17.566961"
-         id="rect4761"
-         style="fill:none;fill-opacity:1;stroke:#3aafb9;stroke-width:2.78620594;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;stroke-linecap:butt" />
+         id="rect4761-6"
+         style="fill:none;fill-opacity:1;stroke:#1ea082;stroke-width:1.71635008;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="csc"
          inkscape:connector-curvature="0"
-         id="path4833"
+         id="path4833-7"
          d="m 109.25326,80.151691 c 0,0 3.49984,5.856677 5.16377,5.721827 2.61185,-0.211676 10.20933,-18.459137 10.20933,-18.459137"
-         style="fill:none;fill-rule:evenodd;stroke:#3aafb9;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#1ea082;stroke-width:2.28846669;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <metadata
@@ -76,7 +76,7 @@
             <dc:title>Openclipart</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">

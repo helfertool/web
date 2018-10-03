@@ -14,7 +14,7 @@
    viewBox="0 0 566.92914 566.92914"
    id="svg6018"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="jobs.svg">
   <defs
      id="defs6020" />
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="201.26708"
+     inkscape:cx="289.26708"
      inkscape:cy="200.26973"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -41,7 +41,8 @@
     <sodipodi:guide
        position="15,170"
        orientation="1,0"
-       id="guide6632" />
+       id="guide6632"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata6023">
@@ -51,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,18 +63,17 @@
      transform="translate(0,-485.43307)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:Normal;letter-spacing:0px;word-spacing:0px;fill:#3aafb9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Normal;letter-spacing:0px;word-spacing:0px;fill:#1ea082;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="15.122038"
        y="671.4491"
-       id="text6566"
-       sodipodi:linespacing="125%"><tspan
+       id="text6566"><tspan
          sodipodi:role="line"
          id="tspan6568"
          x="15.122038"
          y="671.4491"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'">Fancy job</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';fill:#1ea082;fill-opacity:1;">Fancy job</tspan></text>
     <rect
-       style="opacity:1;fill:#3aafb9;fill-opacity:1;stroke:none;stroke-width:12.40157509;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#1ea082;fill-opacity:1;stroke:none;stroke-width:12.40157509;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        id="rect6570"
        width="540.29858"
        height="61.518291"
@@ -81,49 +81,46 @@
        y="692.10529" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="24.748739"
        y="734.53174"
-       id="text6574"
-       sodipodi:linespacing="125%"><tspan
+       id="text6574"><tspan
          sodipodi:role="line"
          id="tspan6576"
          x="24.748739"
          y="734.53174"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1">Dec. 27, 2016</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1">Dec. 27, 2016</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:Normal;letter-spacing:0px;word-spacing:0px;fill:#3aafb9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Normal;letter-spacing:0px;word-spacing:0px;fill:#1ea082;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="56.204582"
        y="810.89917"
-       id="text6597"
-       sodipodi:linespacing="125%"><tspan
+       id="text6597"><tspan
          sodipodi:role="line"
          id="tspan6599"
          x="56.204582"
          y="810.89917"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">7:30 p.m. - 11:30 p.m. (0/6) </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#1ea082;fill-opacity:1;">7:30 p.m. - 11:30 p.m. (0/6) </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:Normal;letter-spacing:0px;word-spacing:0px;fill:#3aafb9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Normal;letter-spacing:0px;word-spacing:0px;fill:#1ea082;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="58.325901"
        y="880.90277"
-       id="text6611"
-       sodipodi:linespacing="125%"><tspan
+       id="text6611"><tspan
          sodipodi:role="line"
          id="tspan6613"
          x="58.325901"
          y="880.90277"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">9:30 p.m. - 1:30 a.m. (3/6)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#1ea082;fill-opacity:1;">9:30 p.m. - 1:30 a.m. (3/6)</tspan></text>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#3aafb9;stroke-width:3.90199661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#1ea082;stroke-width:3.90199661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        id="rect6615"
        width="27.577164"
        height="28.991379"
        x="16.970562"
        y="781.90784" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#3aafb9;stroke-width:3.90199661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#1ea082;stroke-width:3.90199661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        id="rect6615-4"
        width="27.577164"
        height="28.991379"

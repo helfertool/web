@@ -14,7 +14,7 @@
    sodipodi:docname="internal.svg"
    viewBox="0 0 212.59844 160.00001"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    width="60mm"
    height="45.15556mm">
   <defs
@@ -104,13 +104,13 @@
      pagecolor="#ffffff"
      inkscape:window-height="717"
      inkscape:window-maximized="0"
-     inkscape:zoom="2.8284272"
+     inkscape:zoom="1"
      inkscape:window-x="0"
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="91.521105"
-     inkscape:cy="47.242343"
+     inkscape:cx="-78.313746"
+     inkscape:cy="-42.700189"
      showguides="true"
      inkscape:window-y="49"
      inkscape:window-width="1362"
@@ -125,26 +125,26 @@
     <g
        id="g4096"
        transform="matrix(0.99692482,0,0,0.88084068,-48.419896,688.70656)"
-       style="fill:#3aafb9;fill-opacity:1">
+       style="fill:#1ea082;fill-opacity:1">
       <g
          id="g3738"
          clip-path="url(#clipPath3746)"
-         style="opacity:1;fill:#3aafb9;fill-opacity:1"
+         style="opacity:1;fill:#1ea082;fill-opacity:1"
          transform="translate(-2,0)" />
       <rect
          id="rect2838"
-         style="fill:#3aafb9;fill-opacity:1;fill-rule:evenodd"
+         style="fill:#1ea082;fill-opacity:1;fill-rule:evenodd"
          height="91.978996"
          width="114.97"
          y="317.35999"
          x="100.01" />
       <g
          id="g4070"
-         style="opacity:0.71154001;fill:#3aafb9;fill-opacity:1"
+         style="opacity:0.71154001;fill:#1ea082;fill-opacity:1"
          clip-path="url(#clipPath4076)" />
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#3aafb9;stroke-width:17.71653557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#1ea082;stroke-width:17.71653557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 77.066759,994.46303 c 0,0 -9.119936,-83.83344 34.330211,-85.23149 43.45015,-1.39805 32.80509,85.37794 32.80509,85.37794"
        id="path6246"
        inkscape:connector-curvature="0"
@@ -183,7 +183,7 @@
             <dc:title>Openclipart</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2010-05-07T11:34:15</dc:date>
         <dc:description>Lock, created in v0.47</dc:description>
         <dc:source>https://openclipart.org/detail/58957/lock-by-jhnri4</dc:source>
