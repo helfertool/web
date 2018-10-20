@@ -15,7 +15,7 @@ Wallnerstraße 39
 80939 München  
 Deutschland
 
-E-Mail: [sven.hertle@googlemail.com](mailto:sven.hertle@googlemail.com)  
+E-Mail: [hertle@narfi.net](mailto:hertle@narfi.net)  
 PGP fingerprint: E2CB 30B5 6CCC F202 7CE1 15A1 FA10 23F9 F6AC 494F
 
 Haftungsausschluss

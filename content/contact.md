@@ -18,5 +18,5 @@ Also, do not hesitate to contact me by e-mail if you have any questions:
 
 **Sven Hertle**  
 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-[sven.hertle@googlemail.com](mailto:sven.hertle@googlemail.com)  
+[hertle@narfi.net](mailto:hertle@narfi.net)  
 PGP fingerprint: E2CB 30B5 6CCC F202 7CE1 15A1 FA10 23F9 F6AC 494F
