@@ -23,6 +23,7 @@ html {
 .navbar-custom li {
     padding-left: 1em;
     padding-right: 1em;
+    height: 1em;
 }
 
 @media (min-width: 768px) {
