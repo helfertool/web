@@ -10,7 +10,7 @@
         {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
         {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
-        {{ .Hugo.Generator }}
+        {{ hugo.Generator }}
 
         <link rel="stylesheet" href="{{ .Site.BaseURL }}vendor/bootstrap/css/bootstrap.min.css">
 

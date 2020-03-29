@@ -10,4 +10,4 @@ title = "Features"
 Features
 ========
 
-{{% allfeatures %}}
+{{< allfeatures >}}

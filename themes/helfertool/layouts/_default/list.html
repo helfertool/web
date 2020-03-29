@@ -18,7 +18,7 @@
 
                             <div class="post-list-summary" itemprop="description">
                                 <p>
-                                    {{ .Summary | markdownify }}
+                                    {{ .Summary }}
                                     {{ if .Truncated }} <a href="{{ .Permalink }}">[Read more...]</a>{{ end }}
                                 </p>
                             </div>
