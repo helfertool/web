@@ -20,15 +20,19 @@ html {
     font-size: 200%;
 }
 
-.navbar-custom li {
-    padding-left: 1em;
-    padding-right: 1em;
-    height: 1em;
-}
-
 @media (min-width: 768px) {
     .navbar-custom li {
         width: 10em;
+        height: 1em;
+
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 868px) {
+    .navbar-custom .navbar-brand img {
+        display: none;
     }
 }
 
