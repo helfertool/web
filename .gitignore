@@ -8,3 +8,4 @@ Session.vim
 
 # hugo
 /public
+/.hugo_build.lock

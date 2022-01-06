@@ -6,7 +6,7 @@ tags = ['update']
 
 +++
 
-Version 2.2.0 was released today, improves the OpenID Connect integration.
+Version 2.2.0 was released today, which improves the OpenID Connect integration.
 
 Details can be found in the [changelog](https://docs.helfertool.org/releases/changelog.html#changelog-2-2-0).
 
