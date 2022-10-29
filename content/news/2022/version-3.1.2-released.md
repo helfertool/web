@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Version 3.1.2 released"
-date = "2022-10-29T21:00:00+02:00"
+date = "2022-10-29T18:00:00+02:00"
 tags = ['update']
 
 +++
