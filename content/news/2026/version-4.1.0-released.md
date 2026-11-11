@@ -10,6 +10,6 @@ Version 4.1.0 was released today, which includes a security update for the Pillo
 
 Further, PKCE for OpenID Connect is now supported.
 
-Details can be found in the [changelog](https://docs.helfertool.org/releases/changelog.html#changelog-4-0-3).
+Details can be found in the [changelog](https://docs.helfertool.org/releases/changelog.html#changelog-4-1-0).
 
 <!--more-->
